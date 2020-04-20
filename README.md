@@ -43,6 +43,13 @@ React Native
     1.  React Native Tools
         https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native
 
+Twig
+    1.  Twig
+        https://marketplace.visualstudio.com/items?itemName=whatwedo.twig
+
+    2.  Twig Language 2
+        https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2
+
 Other Customization
 
     1.  Change selection color
